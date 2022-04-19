@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vdb@plugnotes.com
+	name = Vincent de Bruyn
